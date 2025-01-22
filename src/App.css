@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto; 
+}
+
+.scrollable-content {
+  overflow-y: auto;
+  flex-grow: 1;
+  -webkit-overflow-scrolling: touch; 
+}
+
