@@ -97,17 +97,7 @@
   background: linear-gradient(135deg, #e57373, #ec407a);
 }
 
-.remove-favorite-button {
-  margin-top: 0.5rem;
-  padding: 0.5rem 0.5rem;
-  background-color: #f5eeed;
-  color: white;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  font-size: 0.875rem;
-  background: linear-gradient(135deg, #ffe1e0, #ffb3b3);
-}
+
 
 .remove-favorite-button:hover {
   background: linear-gradient(135deg, #e57373, #ec407a);
